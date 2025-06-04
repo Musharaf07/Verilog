@@ -1,6 +1,6 @@
 // JK RST FF
 module jk_ff_tb();
-  reg j,k,rst,clk,;
+  reg j,k,rst,clk;
   wire q,qb;
   initial begin 
     clk = 0; 
